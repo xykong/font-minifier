@@ -1,6 +1,6 @@
-# font-minifier CLI
+# font-minifier
 
-A CLI for font-minifier.
+Typescript-based Font compressor/minifier (with Node.js support).
 
 ## Customizing your CLI
 
@@ -21,5 +21,5 @@ $ npm publish
 
 # License
 
-MIT - see LICENSE
+Apache-2.0 - see LICENSE
 
